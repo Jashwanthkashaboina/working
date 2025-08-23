@@ -27,3 +27,7 @@ body{
 .flash{
     background-color: white;
 }
+
+.user-flash{
+    background-color: green;
+}
